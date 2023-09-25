@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Container{
+    display: flex;
+    text-align: center;
+   
+
+    
+}
+.NewContact{
+  margin: 2% 5%;
+  
+  padding: 10%;
+   background-color: gray;
+   color: white;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   border: 1px green;
+   border-radius: 2px;
+   
+}
